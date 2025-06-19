@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/berkayburakmisirlioglu/"  target="blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg"  alt="berkayburakmisirlioglu"  height="30" width="40" /></a>
-<a href="https://medium.com/@berkayburakmisirlioglu"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  alt="@berkayburakmisirlioglu"  height="30"  width="40"/></a>
-<a href="mailto:berkay.misirlioglu@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/google/google-original.svg" alt="berkay.misirlioglu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/berkayburakmisirlioglu/" target="_blank"><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg"  alt="berkayburakmisirlioglu"  height="30" width="40" /></a>
+<a href="https://medium.com/@berkayburakmisirlioglu"  target="_blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  alt="@berkayburakmisirlioglu"  height="30"  width="40"/></a>
+<a href="mailto:berkay.misirlioglu@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/google/google-original.svg" alt="berkay.misirlioglu" height="30" width="40" /></a>
 </p>
 
   
