@@ -1,10 +1,7 @@
 
 <h1 align="center">Hi, I'm Berkay👋</h1>
-<h3 align="center">Frontend Developer actively looking for new opportunities</h3>
+<h3 align="center">Frontend Developer</h3>
 
-
-- 👀 I’m actively looking for a new role as a **Frontend Developer**
-- 🔭 I’m currently working on **React/React Native based side projects** to sharpen my frontend skills.
 - 💡 I enjoy building **accessible, performance-oriented and user-friendly web apps**.
 -  🔁 I love **refactoring legacy codebases** and turning them into clean, maintainable structures.
 - 📝 I **sometimes** write articles on [https://medium.com/@berkayburakmisirlioglu](https://medium.com/@berkayburakmisirlioglu)
